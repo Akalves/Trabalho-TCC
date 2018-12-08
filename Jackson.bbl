@@ -1,0 +1,244 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[ANVISA 2013]{rdc2016}
+\abntrefinfo{ANVISA}{ANVISA}{2013}
+{ANVISA. \emph{{Guia de Aux{\'i}lio na Implanta\c{c}{\~a}o de Boas Pr{\'a}ticas
+  em Produtos Para Sa{\'u}de}}.
+[S.l.], 2013.}
+
+\bibitem[Bersch 2017]{Assitiva}
+\abntrefinfo{Bersch}{BERSCH}{2017}
+{BERSCH, M. L.~S. e R. \emph{{Assitiva} Tecnologia e Educação}. 2017.
+Dispon{\'\i}vel em: \url{http://www.assistiva.com.br/tassistiva.html}.}
+
+\bibitem[Brasil 2009]{livroTAGOV}
+\abntrefinfo{Brasil}{BRASIL}{2009}
+{BRASIL. \emph{{ Tecnologia Assistiva}}. Brasília: Subsecretaria Nacional de
+  Promoção dos Direitos da Pessoa com Deficiência. Comitê de Ajudas
+  Técnicas, 2009.
+ISBN 9780195178777.}
+
+\bibitem[Capecci et al. 2015]{capecci2015crutch}
+\abntrefinfo{Capecci et al.}{CAPECCI et al.}{2015}
+{CAPECCI, D. et al. Crutch tip for swing-through crutch walking control based
+  on a kinetic shape. In:  IEEE. \emph{Rehabilitation Robotics (ICORR), 2015
+  IEEE International Conference on}. [S.l.], 2015. p. 612--617.}
+
+\bibitem[Com et al. 1999]{com1999biomechanical}
+\abntrefinfo{Com et al.}{COM et al.}{1999}
+{COM, M. et al. Biomechanical evaluation of handgrips for the design of elbow
+  crutches.
+\emph{Technology and Disability}, IOS Press, v.~10, n.~2, p. 115--121, 1999.}
+
+\bibitem[Crasto et al. 2003]{de2003magnetometro}
+\abntrefinfo{Crasto et al.}{CRASTO et al.}{2003}
+{CRASTO, R. V.~P. de et al. Magnet{\^o}metro de fluxo saturado (fluxgate) em
+  arranjo gradiom{\'e}trico para detec{\c{c}}{\~a}o de dutos e cabos.
+2003.}
+
+\bibitem[Daponte et al. 2011]{daponte2011electronic}
+\abntrefinfo{Daponte et al.}{DAPONTE et al.}{2011}
+{DAPONTE, P. et al. Electronic measurements in rehabilitation. In:  IEEE.
+  \emph{Medical Measurements and Applications Proceedings (MeMeA), 2011 IEEE
+  International Workshop on}. [S.l.], 2011. p. 274--279.}
+
+\bibitem[Dooley, Ma e Zhang 2015]{dooley2015effect}
+\abntrefinfo{Dooley, Ma e Zhang}{DOOLEY; MA; ZHANG}{2015}
+{DOOLEY, A.; MA, Y.; ZHANG, Y. The effect of a shock absorber on spatiotemporal
+  parameters and ground reaction forces of forearm crutch ambulation.
+\emph{Assistive Technology}, Taylor \& Francis, v.~27, n.~4, p. 257--262,
+  2015.}
+
+\bibitem[Forhan e Senna 2010]{forhan2010giroscopios}
+\abntrefinfo{Forhan e Senna}{FORHAN; SENNA}{2010}
+{FORHAN, N. A.~E.; SENNA, J. R.~S. Giroscopios mems.
+\emph{urlib. net/sid. inpe. br/mtc-m19}, v.~80, p. 01--25, 2010.}
+
+\bibitem[Gao e Zhang 2004]{gao2004micromachined}
+\abntrefinfo{Gao e Zhang}{GAO; ZHANG}{2004}
+{GAO, R.; ZHANG, L. Micromachined microsensors for manufacturing.
+\emph{IEEE Instrumentation \& Measurement Magazine}, IEEE, v.~7, n.~2, p.
+  20--26, 2004.}
+
+\bibitem[Glisoi et al. 2012]{glisoi2012dispositivos}
+\abntrefinfo{Glisoi et al.}{GLISOI et al.}{2012}
+{GLISOI, S. F. d.~N. et al. Dispositivos auxiliares de marcha:
+  orienta{\c{c}}{\~a}o quanto ao uso, adequa{\c{c}}{\~a}o e preven{\c{c}}{\~a}o
+  de quedas em idosos.
+\emph{Geriatrics, Gerontology and Aging}, Geriatrics, Gerontology and Aging,
+  v.~6, n.~3, p. 261--272, 2012.}
+
+\bibitem[Greve 2007]{greve2007tratado}
+\abntrefinfo{Greve}{GREVE}{2007}
+{GREVE, J. M.~D. \emph{Tratado de medicina de reabilita{\c{c}}{\~a}o}. [S.l.]:
+  Editora Roca, 2007.}
+
+\bibitem[Guimar{\~a}es, Carvalho e Pagliuca 2015]{guimaraeselaboration}
+\abntrefinfo{Guimar{\~a}es, Carvalho e Pagliuca}{GUIMAR{\~A}ES; CARVALHO;
+  PAGLIUCA}{2015}
+{GUIMAR{\~A}ES, F.~J.; CARVALHO, A. L. R.~F.; PAGLIUCA, L. M.~F. Elaboration
+  and validation of an assistive technology assessment questionnaire.
+2015.}
+
+\bibitem[Hall 1879]{hall1879new}
+\abntrefinfo{Hall}{HALL}{1879}
+{HALL, E.~H. On a new action of the magnet on electric currents.
+\emph{American Journal of Mathematics}, JSTOR, v.~2, n.~3, p. 287--292, 1879.}
+
+\bibitem[Hamill e Knutzen 2006]{hamill2006biomechanical}
+\abntrefinfo{Hamill e Knutzen}{HAMILL; KNUTZEN}{2006}
+{HAMILL, J.; KNUTZEN, K.~M. \emph{Biomechanical basis of human movement}.
+  [S.l.]: Lippincott Williams \& Wilkins, 2006.}
+
+\bibitem[Krause et al. 2007]{krause2007biodynamic}
+\abntrefinfo{Krause et al.}{KRAUSE et al.}{2007}
+{KRAUSE, D. et al. Biodynamic feedback training to assure learning partial load
+  bearing on forearm crutches.
+\emph{Archives of physical medicine and rehabilitation}, Elsevier, v.~88, n.~7,
+  p. 901--906, 2007.}
+
+\bibitem[Leite]{leitedesenvolvimento}
+\abntrefinfo{Leite}{LEITE}{}
+{LEITE, F. I. d.~L.
+\emph{Desenvolvimento de uma muleta instrumentalizada para fins de
+  acompanhamento cl{\'\i}nico}.
+Tese (Doutorado) --- Universidade de S{\~a}o Paulo.}
+
+\bibitem[Leite et al. 2014]{leite2014avaliaccao}
+\abntrefinfo{Leite et al.}{LEITE et al.}{2014}
+{LEITE, W.~V. et al. Avalia{\c{c}}{\~a}o cinem{\'a}tica comparativa da marcha
+  humana por meio de unidade inercial e sistema de video. In:  \emph{XXIV
+  Congresso Brasileiro de Engenharia Biom{\'e}dica}. [S.l.: s.n.], 2014.}
+
+\bibitem[Li, Armstrong e Cipriani 2001]{li2001three}
+\abntrefinfo{Li, Armstrong e Cipriani}{LI; ARMSTRONG; CIPRIANI}{2001}
+{LI, S.; ARMSTRONG, C.~W.; CIPRIANI, D. Three-point gait crutch walking:
+  variability in ground reaction force during weight bearing.
+\emph{Archives of physical Medicine and Rehabilitation}, Elsevier, v.~82, n.~1,
+  p. 86--92, 2001.}
+
+\bibitem[MacGillivray, Manocha e Sawatzky 2016]{MACGILLIVRAY2016275}
+\abntrefinfo{MacGillivray, Manocha e Sawatzky}{MACGILLIVRAY; MANOCHA;
+  SAWATZKY}{2016}
+{MACGILLIVRAY, M.~K.; MANOCHA, R.~H.; SAWATZKY, B. The influence of a polymer
+  damper on swing-through crutch gait biomechanics.
+\emph{Medical Engineering and Physics}, v.~38, n.~3, p. 275 -- 279, 2016.
+ISSN 1350-4533.
+Dispon{\'\i}vel em:
+  \url{http://www.sciencedirect.com/science/article/pii/S1350453316000072}.}
+
+\bibitem[Merrett et al. 2010]{merrett2010augmenting}
+\abntrefinfo{Merrett et al.}{MERRETT et al.}{2010}
+{MERRETT, G.~V. et al. Augmenting forearm crutches with wireless sensors for
+  lower limb rehabilitation.
+\emph{Measurement Science and Technology}, IOP Publishing, v.~21, n.~12, p.
+  124008, 2010.}
+
+\bibitem[NewtonCBraga 2016]{Braga:xxx}
+\abntrefinfo{NewtonCBraga}{NEWTONCBRAGA}{2016}
+{NEWTONCBRAGA. \emph{File:EfeitoHall.jpg --- NewtonCBraga{,}Imagens}. 2016.
+[Online; accessed 20-July-2018].
+Dispon{\'\i}vel em:
+  \url{http://www.newtoncbraga.com.br/index.php/como-funciona/6640-como-funcionam-os-sensores-de-efeito-hall-art1050}.}
+
+\bibitem[Ogata et al. 2003]{ogata2003engenharia}
+\abntrefinfo{Ogata et al.}{OGATA et al.}{2003}
+{OGATA, K. et al. Engenharia de controle moderno, tradu{\c{c}}{\~a}o paulo
+  {\'a}lvaro maya; revisao t{\'e}cnica fabrizio leonardi [et al.].
+\emph{S{\~a}o Paulo: Prentice Hall}, v.~12, p. 15--17, 2003.}
+
+\bibitem[Oliveira 2017]{oliveira2017proposta}
+\abntrefinfo{Oliveira}{OLIVEIRA}{2017a}
+{OLIVEIRA, J. H.~d. Proposta de amortecimento adapt{\'a}vel para muleta
+  canadense.
+2017.}
+
+\bibitem[Oliveira 2017]{Jose2017}
+\abntrefinfo{Oliveira}{OLIVEIRA}{2017b}
+{OLIVEIRA, J.~H. de.
+\emph{{PROPOSTA DE AMORTECIMENTO ADAPT{\'A}VEL PARA MULETA CANADENSE}}.
+Disserta\c{c}\~{a}o (Disserta\c{c}{\~a}o de Mestrado) --- Universidade de
+  Bras{\'i}lia, Junho 2017.}
+
+\bibitem[Papakostas, Lima e Lowe 2002]{papakostas2002large}
+\abntrefinfo{Papakostas, Lima e Lowe}{PAPAKOSTAS; LIMA; LOWE}{2002}
+{PAPAKOSTAS, T.~V.; LIMA, J.; LOWE, M. A large area force sensor for smart skin
+  applications. In:  IEEE. \emph{Sensors, 2002. Proceedings of IEEE}. [S.l.],
+  2002. v.~2, p. 1620--1624.}
+
+\bibitem[Perry 2005]{perry2005analise}
+\abntrefinfo{Perry}{PERRY}{2005}
+{PERRY, J. \emph{An{\'a}lise de marcha: marcha patol{\'o}gica. Trad.
+  Aleth{\'e}a Gomes Nardini Ara{\'u}jo}. [S.l.]: Barueri: Manole, 2005.}
+
+\bibitem[Porto et al. 2004]{porto2004construccao}
+\abntrefinfo{Porto et al.}{PORTO et al.}{2004}
+{PORTO, F. et al. constru{\c{c}}{\~a}o e calibra{\c{c}}{\~a}o de um
+  aceler{\^o}metro triaxial de baixo custo para an{\'a}lise biomec{\^a}nica do
+  movimento humano.
+\emph{XXVII Simp{\'o}sio Internacional de Ci{\^e}ncias do Esporte}, p.~250,
+  2004.}
+
+\bibitem[Requejo et al. 2005]{requejo2005upper}
+\abntrefinfo{Requejo et al.}{REQUEJO et al.}{2005}
+{REQUEJO, P.~S. et al. Upper extremity kinetics during lofstrand
+  crutch-assisted gait.
+\emph{Medical Engineering and Physics}, Elsevier, v.~27, n.~1, p. 19--29,
+  2005.}
+
+\bibitem[Robertson et al. 2004]{robertson2004research}
+\abntrefinfo{Robertson et al.}{ROBERTSON et al.}{2004}
+{ROBERTSON, D. et al. Research methods in biomechanics . champaign, il: Human
+  kinetics.
+\emph{Rodrigues JM, Lu{\'\i}s AL, Lobato JV, Pinto MV, Lopes MA, Freitas M,
+  Geuna S, Santos JD, Maur{\'\i}cio AC,(2005a)." Determination of the
+  intracellular Ca2+ concentration in the N1E-115 neuronal cell line in
+  perspective of its use for peripheric nerve regeneration." Bio-Medical
+  Material and Engineering}, v.~15, p. 455--465, 2004.}
+
+\bibitem[Rogers, Leineweber e Andrysek 2016]{rogers2016analysis}
+\abntrefinfo{Rogers, Leineweber e Andrysek}{ROGERS; LEINEWEBER; ANDRYSEK}{2016}
+{ROGERS, E.; LEINEWEBER, M.~J.; ANDRYSEK, J. Analysis of terrain effects on the
+  interfacial force distribution at the hand and forearm during crutch gait.
+\emph{Assistive Technology}, Taylor \& Francis, v.~28, n.~4, p. 202--208,
+  2016.}
+
+\bibitem[Sardini et al. 2014]{sardini2014wireless}
+\abntrefinfo{Sardini et al.}{SARDINI et al.}{2014}
+{SARDINI, E. et al. Wireless instrumented crutches for force and tilt
+  monitoring in lower limb rehabilitation.
+\emph{Procedia Engineering}, Elsevier, v.~87, p. 348--351, 2014.}
+
+\bibitem[Sousa et al. 2007]{sousa2007analise}
+\abntrefinfo{Sousa et al.}{SOUSA et al.}{2007}
+{SOUSA, D. S.~S. et al. An{\'a}lise cl{\'\i}nica da marcha exemplo de
+  aplica{\c{c}}{\~a}o em laborat{\'o}rio de movimento.
+\emph{2{\textordmasculine} Encontro Nacional de Biomec{\^a}nica: Livro de
+  actas}, 2007.}
+
+\bibitem[Sung, Kang e Lee 2008]{sung2008controller}
+\abntrefinfo{Sung, Kang e Lee}{SUNG; KANG; LEE}{2008}
+{SUNG, W.-T.; KANG, T.; LEE, J.~G. Controller design of a mems
+  gyro-accelerometer with a single proof mass.
+\emph{International Journal of Control, Automation, and Systems}, v.~6, n.~6,
+  p. 873--883, 2008.}
+
+\bibitem[Tao et al. 2012]{tao2012gait}
+\abntrefinfo{Tao et al.}{TAO et al.}{2012}
+{TAO, W. et al. Gait analysis using wearable sensors.
+\emph{Sensors}, Molecular Diversity Preservation International, v.~12, n.~2, p.
+  2255--2283, 2012.}
+
+\bibitem[Youdas et al. 2005]{youdas2005partial}
+\abntrefinfo{Youdas et al.}{YOUDAS et al.}{2005}
+{YOUDAS, J.~W. et al. Partial weight-bearing gait using conventional assistive
+  devices.
+\emph{Archives of physical medicine and rehabilitation}, Elsevier, v.~86, n.~3,
+  p. 394--398, 2005.}
+
+\end{thebibliography}

@@ -1,0 +1,33 @@
+\changetocdepth {4}
+\select@language {brazil}
+\contentsline {chapter}{\chapternumberline {1}INTRODU\IeC {\c C}\IeC {\~A}O}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}MOTIVA\IeC {\c C}\IeC {\~A}O}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}OBJETIVOS DO TRABALHO}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}APRESENTA\IeC {\c C}\IeC {\~A}O DO DOCUMENTO}{3}{section.1.3}
+\contentsline {chapter}{\chapternumberline {2}FUNDAMENTA\IeC {\c C}\IeC {\~A}O TE\IeC {\'O}RICA}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}REFERENCIAL TE\IeC {\'O}RICO}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}CARACTERIZA\IeC {\c C}\IeC {\~A}O DA MARCHA}{5}{section.2.2}
+\contentsline {section}{\numberline {2.3}MULETAS}{8}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}MULETA CANADENSE}{8}{subsection.2.3.1}
+\contentsline {section}{\numberline {2.4}BOAS PRATICAS DE FABRICACAO }{9}{section.2.4}
+\contentsline {section}{\numberline {2.5}PLATAFORMA DE PROTOTIPAGEM ELETR\IeC {\^O}NICA DE HARDWARE}{11}{section.2.5}
+\contentsline {section}{\numberline {2.6}SENSORES UNIDADE DE MEDIDA INERCIAL}{11}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}ACELER\IeC {\^O}METRO}{12}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}GIROSC\IeC {\'O}PIO}{14}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}MAGNETR\IeC {\^O}METRO}{15}{subsection.2.6.3}
+\contentsline {section}{\numberline {2.7}SENSOR FOR\IeC {\c C}A RESISTIVA}{16}{section.2.7}
+\contentsline {section}{\numberline {2.8}SISTEMA DE REFERENCIAL DE ATITUDE E DIRE\IeC {\c C}\IeC {\~A}O}{16}{section.2.8}
+\contentsline {section}{\numberline {2.9}PLACA DE CIRCUITO IMPRESSO}{16}{section.2.9}
+\contentsline {chapter}{\chapternumberline {3}MATERIAIS E M\IeC {\'E}TODOS}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}DISPOSITIVO ELETR\IeC {\^O}NICOS}{17}{section.3.1}
+\contentsline {section}{\numberline {3.2}CALIBRA\IeC {\c C}\IeC {\~A}O DOS SENSORES}{17}{section.3.2}
+\contentsline {section}{\numberline {3.3}CIRCUITO ELETR\IeC {\^O}NICO}{17}{section.3.3}
+\contentsline {section}{\numberline {3.4}PROCEDIMENTO EXPERIMENTAIS}{17}{section.3.4}
+\contentsline {chapter}{\chapternumberline {4}RESULTADOS E AN\IeC {\'A}LISES}{18}{chapter.4}
+\contentsline {section}{\numberline {4.1}AJUSTE DE CALIBRA\IeC {\c C}\IeC {\~A}O}{18}{section.4.1}
+\contentsline {section}{\numberline {4.2}PARAMETRIZA\IeC {\c C}\IeC {\~A}O DOS SENSORES}{18}{section.4.2}
+\contentsline {section}{\numberline {4.3}AN\IeC {\'A}LISE DOS RESULTADOS}{18}{section.4.3}
+\contentsline {chapter}{\chapternumberline {5}CONCLUS\IeC {\~O}ES E TRABALHOS FUTUROS}{19}{chapter.5}
+\vspace {\cftbeforepartskip }
+\contentsline {chapter}{\textbf {REFER\IeC {\^E}NCIAS BIBLIOGR\IeC {\'A}FICAS}}{20}{section*.20}
+\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
